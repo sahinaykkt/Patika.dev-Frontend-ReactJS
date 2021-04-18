@@ -1,0 +1,50 @@
+body {
+  background-color: linen;
+}
+
+.yazilar {
+  font-size: 18px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: darkslateblue;
+}
+
+#header {
+  text-align: center;
+}
+
+#header ul li {
+  display: inline;
+  padding-left: 20px;
+}
+
+#footer {
+  text-align: center;
+}
+
+#footer ul li {
+  display: inline;
+  padding-left: 20px;
+}
+
+#article {
+  text-align: center;
+  list-style-position: inside;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: indianred;
+}
+
+h2 {
+  color: olive;
+}
+
+nav {
+  background-color: burlywood;
+  padding: 10px;
+}
+
+a {
+  color: brown;
+  font-size: 25px;
+}
