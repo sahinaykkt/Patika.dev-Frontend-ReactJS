@@ -1,0 +1,23 @@
+{
+  "name": "patika.dev-react-odev1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahinaykkt/Patika.dev-Frontend-ReactJS.git"
+  },
+  "author": "Aykut Şahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahinaykkt/Patika.dev-Frontend-ReactJS/issues"
+  },
+  "homepage": "https://github.com/sahinaykkt/Patika.dev-Frontend-ReactJS#readme",
+  "dependencies": {
+    "axios": "^0.26.1"
+  }
+}
